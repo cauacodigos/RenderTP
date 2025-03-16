@@ -1,0 +1,9 @@
+C:\Users\Duda\source\repos\treinoRender\treinoRender\bin\Debug\treinoRender.exe
+C:\Users\Duda\source\repos\treinoRender\treinoRender\bin\Debug\treinoRender.pdb
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.csproj.AssemblyReference.cache
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.Form1.resources
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.Properties.Resources.resources
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.csproj.GenerateResource.cache
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.csproj.CoreCompileInputs.cache
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.exe
+C:\Users\Duda\source\repos\treinoRender\treinoRender\obj\Debug\treinoRender.pdb

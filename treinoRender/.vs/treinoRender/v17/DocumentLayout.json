@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duda\\source\\repos\\treinoRender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F53F-53C0-48E7-89C4-27AC10832E1A}|treinoRender\\treinoRender.csproj|c:\\users\\duda\\source\\repos\\treinorender\\treinorender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D0F53F-53C0-48E7-89C4-27AC10832E1A}|treinoRender\\treinoRender.csproj|solutionrelative:treinorender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F53F-53C0-48E7-89C4-27AC10832E1A}|treinoRender\\treinoRender.csproj|c:\\users\\duda\\source\\repos\\treinorender\\treinorender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6D0F53F-53C0-48E7-89C4-27AC10832E1A}|treinoRender\\treinoRender.csproj|solutionrelative:treinorender\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D0F53F-53C0-48E7-89C4-27AC10832E1A}|treinoRender\\treinoRender.csproj|c:\\users\\duda\\source\\repos\\treinorender\\treinorender\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D0F53F-53C0-48E7-89C4-27AC10832E1A}|treinoRender\\treinoRender.csproj|solutionrelative:treinorender\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Duda\\source\\repos\\treinoRender\\treinoRender\\Produto.cs",
+              "RelativeDocumentMoniker": "treinoRender\\Produto.cs",
+              "ToolTip": "C:\\Users\\Duda\\source\\repos\\treinoRender\\treinoRender\\Produto.cs",
+              "RelativeToolTip": "treinoRender\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:35:22.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Duda\\source\\repos\\treinoRender\\treinoRender\\Form1.cs",
+              "RelativeDocumentMoniker": "treinoRender\\Form1.cs",
+              "ToolTip": "C:\\Users\\Duda\\source\\repos\\treinoRender\\treinoRender\\Form1.cs",
+              "RelativeToolTip": "treinoRender\\Form1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowFoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:04:58.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duda\\source\\repos\\treinoRender\\treinoRender\\Form1.cs",
+              "RelativeDocumentMoniker": "treinoRender\\Form1.cs",
+              "ToolTip": "C:\\Users\\Duda\\source\\repos\\treinoRender\\treinoRender\\Form1.cs [Design]",
+              "RelativeToolTip": "treinoRender\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:02:22.534Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
